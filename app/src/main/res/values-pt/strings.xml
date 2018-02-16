@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">PrimeiraAula</string>
     <string name="label_botao_da_sorte">Gerar número da sorte</string>
+    <string name="desenvolvido_por">desenvolvido por Celso</string>
 </resources>
